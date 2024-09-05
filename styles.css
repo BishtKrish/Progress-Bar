@@ -110,6 +110,10 @@ ul li .active .uil{
     ul li{
         flex-direction: row;
     }
+    
+    #stage-image{
+        margin-top: 120px;
+    }
     ul li .progress{
         margin: 0 30px;
     }
